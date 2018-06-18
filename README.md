@@ -1,2 +1,4 @@
 # TIPE_2017
-on va tout défoncer sa mère
+
+Ce projet a été effectué dans le cadre du TIPE de deuxième année de classe préparatoire (MP)
+
